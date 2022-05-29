@@ -57,7 +57,6 @@ namespace XJX
                 else
                 {
                     TankMove();
-                    Debug.Log("Move");
                 }
             }
         }

@@ -1760,9 +1760,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TeamSettings:
   - Reborn: {fileID: 1305338028}
-    TankScript: TJQ.MyTank
+    TankScript: MLS.MyTank
   - Reborn: {fileID: 677785983}
-    TankScript: TJQ.MyTank
+    TankScript: WS.MyTank
   GlobalSetting:
     MatchTime: 180
     FireInterval: 1
